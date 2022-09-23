@@ -2,7 +2,6 @@ import styled from "@emotion/styled";
 
 export const ChartDiv = styled.div`
   border-radius: 30px;
-  max-width: 225px;
   height: 300px;
   margin-left: auto;
   margin-right: auto;
